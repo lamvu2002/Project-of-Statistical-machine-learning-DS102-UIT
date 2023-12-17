@@ -4,4 +4,4 @@ Extracting features from Apks and using it to train by using machine learning mo
 Before using CNN, the code transform extracted features into grayscale images.
 
 # Testing trained models
-Using banking malware from CIC-AndMal2020 to test the proficiency of trained models.
+Using banking malware from CIC-AndMal2020 and benign apps downloaded from apkpure to test the proficiency of trained models.
